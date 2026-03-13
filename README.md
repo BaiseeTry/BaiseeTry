@@ -1,3 +1,6 @@
+<p align="left">
+  <img src="furina.png" width="150" align="left" style="margin-right: 20px;" />
+</p>
 # Hey! I'm BaiseeTry 🎮
 
 **Aspiring C# & Unity Developer** from Earth 🌍. 
@@ -22,10 +25,6 @@ I'm on a mission to turn caffeine into code and complex bugs into polished indie
 
 ### 📈 My GitHub Journey
 
-<p align="center">
-  <!-- Если ты загрузил файл в репозиторий, используй строку ниже -->
-  <img src="journey.webp" width="100%" alt="Journey" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app" width="48%" />
