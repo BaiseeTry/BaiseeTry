@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ru.pinterest.com/pin/734016439307071654/" />
+  <img src="https://img.goodfon.ru" width="100%" alt="Journey" />
 </p>
 
 # Hey! I'm BaiseeTry 🎮
@@ -25,8 +25,9 @@ I'm on a mission to turn caffeine into code and complex bugs into polished indie
 ---
 
 ### 📊 My GitHub Journey
-<p align="left">
-<img src="https://github-readme-stats.vercel.app[ТВОЙ_НИК]&show_icons=true&theme=tokyonight&hide_border=true" width="400" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app" width="48%" />
+  <img src="https://github-readme-stats.vercel.app" width="43%" />
 </p>
 
 ---
