@@ -1,9 +1,10 @@
 <p align="left">
   <img src="furina.png" width="150" align="left" style="margin-right: 20px;" />
 </p>
-<div align="center">
+<div align="left">
   <span style="font-size: 2em; font-weight: bold;">Hey! I'm BaiseeTry 🎮</span>
 </div>
+
 
 
 Aspiring C# & Unity Developer from Earth 🌍  
