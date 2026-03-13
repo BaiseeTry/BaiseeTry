@@ -2,26 +2,11 @@
   <img src="furina.png" width="150" align="left" style="margin-right: 20px;" />
 </p>
 
-<table>
-  <tr>
-    <td>
-      <h1>Hey! I'm BaiseeTry 🎮</h1>
-      Aspiring C# & Unity Developer from Earth 🌏<br>
-      I'm on a mission to turn caffeine into code and complex...
-    </td>
-  </tr>
-</table>
+<table><tr><td><h1>Hey! I'm BaiseeTry 🎮</h1></td></tr></table>
 
+Aspiring C# & Unity Developer from Earth 🌏
+I'm on a mission to turn caffeine into code and complex...
 
-
-
-
-
-
-
-
-Aspiring C# & Unity Developer from Earth 🌍  
-I'm on a mission to turn caffeine into code and complex bugs into polished indie games ☕💻
 
 - 🔭 I’m currently working on: **My First Unity Platformer**
 - 🌱 I’m learning: **C# Scripting & Game Physics**
