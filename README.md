@@ -1,4 +1,4 @@
-<img src="furina.jpg" align="left" width="120" />
+<img src="furina.png" align="left" width="120" />
 # Hey!
 
 I'm **BaiseeTry**, a C# enthusiast with a strong passion for Game Development and interactive experiences. I love building logic-driven worlds and clean code.
