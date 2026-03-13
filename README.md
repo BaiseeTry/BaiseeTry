@@ -19,35 +19,32 @@ Here is a list of my projects:
 
 ---
 
-## ⚡ Technologies & Tools
-
-### Languages & Frameworks
+### 🚀 Languages & Frameworks
 <p align="left">
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
+  <img src="https://raw.githubusercontent.com" height="40" alt="C#" />
+  <img src="https://raw.githubusercontent.com" height="40" alt="C++" />
+  <img src="https://raw.githubusercontent.com" height="40" alt=".NET" />
+  <img src="https://raw.githubusercontent.com" height="40" alt="Unity" />
+  <img src="https://raw.githubusercontent.com" height="40" alt="C" />
 </p>
 
-### Development Tools
+### 🛠️ Development Tools
 <p align="left">
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
+  <img src="https://raw.githubusercontent.com" height="40" alt="Visual Studio" />
+  <img src="https://raw.githubusercontent.com" height="40" alt="VS Code" />
+  <img src="https://raw.githubusercontent.com" height="40" alt="Git" />
+  <img src="https://raw.githubusercontent.com" height="40" alt="GitHub" />
+  <img src="https://raw.githubusercontent.com" height="40" alt="Windows" />
 </p>
 
-### Other & Learning
+### 📚 Other & Learning
 <p align="left">
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
+  <img src="https://raw.githubusercontent.com" height="40" alt="Stack Overflow" />
+  <img src="https://raw.githubusercontent.com" height="40" alt="Markdown" />
+  <img src="https://raw.githubusercontent.com" height="40" alt="SQL" />
 </p>
+
+
 
 
 
