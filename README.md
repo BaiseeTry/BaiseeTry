@@ -1,7 +1,10 @@
 <p align="left">
   <img src="furina.png" width="150" align="left" style="margin-right: 20px;" />
 </p>
-<h1 align="left">Hey! I'm BaiseeTry 🎮</h1>
+<div align="center">
+  <span style="font-size: 2em; font-weight: bold;">Hey! I'm BaiseeTry 🎮</span>
+</div>
+
 
 Aspiring C# & Unity Developer from Earth 🌍  
 I'm on a mission to turn caffeine into code and complex bugs into polished indie games ☕💻
