@@ -19,8 +19,18 @@ Here is a list of my projects:
 
 ---
 
-## ⚡ Technologies
+## ⚡ Technologies & Tools
 
+### Languages & Frameworks
+<p align="left">
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+</p>
+
+### Development Tools
 <p align="left">
   <img src="https://img.shields.io" />
   <img src="https://img.shields.io" />
@@ -29,6 +39,16 @@ Here is a list of my projects:
   <img src="https://img.shields.io" />
   <img src="https://img.shields.io" />
 </p>
+
+### Other & Learning
+<p align="left">
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+</p>
+
 
 
 
