@@ -2,7 +2,8 @@
   <img src="furina.png" width="150" align="left" style="margin-right: 20px;" />
 </p>
 
-<b><font size="24">Hey! I'm BaiseeTry 🎮</font></b>
+<span style="font-size: 40px; font-weight: bold;">Hey! I'm BaiseeTry 🎮</span>
+
 
 
 
