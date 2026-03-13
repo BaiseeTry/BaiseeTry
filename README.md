@@ -1,80 +1,58 @@
-<!-- Пример профиля в стиле "две колонки" -->
-<table>
-  <tr>
-    <!-- Левая колонка: аватар, контакты, краткая биография -->
-    <td width="33%" valign="top" style="padding-right: 20px;">
-      <p align="center">
-        <img src="https://avatars.githubusercontent.com/USERNAME?s=200" width="140" style="border-radius: 50%;" alt="avatar"/>
-      </p>
-      <h2 align="center">Имя Фамилия</h2>
-      <p align="center">Короткая подпись — разработчик, любитель CLI и open source</p>
+<p align="left">
+  <img src="furina.png" width="140" style="float:left; margin-right:18px; border-radius:12px;" alt="avatar" />
+</p>
 
-      <p>
-        <strong>📍 Город, Страна</strong><br/>
-        <strong>💼 Работа:</strong> должность / проект<br/>
-        <strong>✉️ Email:</strong> <a href="mailto:you@example.com">you@example.com</a><br/>
-        <strong>🔗 Сайт:</strong> <a href="https://your-site.example">your-site.example</a>
-      </p>
+# Hey! I'm BaiseeTry 👋
 
-      <p>
-        <!-- Социальные иконки (замени ссылки) -->
-        <a href="https://github.com/USERNAME">GitHub</a> ·
-        <a href="https://twitter.com/YOUR">Twitter</a> ·
-        <a href="https://www.linkedin.com/in/YOUR">LinkedIn</a>
-      </p>
+I'm a C# Enthusiast and Aspiring Game Developer. I love building logic-driven worlds, interactive experiences, and clean, scalable code.
 
-      <p align="center">
-        <!-- Пример бейджей: followers, stars (shields.io) -->
-        <img src="https://img.shields.io/github/followers/USERNAME?label=Followers&style=social" alt="followers"/>
-        <img src="https://img.shields.io/github/stars/USERNAME?style=social" alt="stars"/>
-      </p>
+- 🔭 Currently working on: My first Unity Project
+- 🌱 Learning: Advanced C# & Game Physics
+- 💬 Ask me about: Genshin Impact or Unity bugs
+- ⚡ Fun fact: I write code that works (sometimes)
 
-      <p>
-        <!-- Опционально: карточки статистики -->
-        <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=neutral" alt="GitHub stats"/>
-      </p>
-    </td>
+<br clear="left" />
 
-    <!-- Правая колонка: README / резюме / проекты -->
-    <td valign="top">
-      <h1>Привет! 👋 Я Имя</h1>
-      <p>Я занимаюсь разработкой инструментов командной строки, автоматизацией и open source проектами. Люблю Rust, Linux и простые удобные утилиты.</p>
+---
 
-      <h3>О проектах</h3>
-      <p>Ниже — краткий список моих персональных проектов и утилит. Ссылки ведут на репозитории.</p>
+### 🕹️ My Projects & Labs
 
-      <table>
-        <tr>
-          <td valign="top" style="padding-right: 20px;">
-            <strong>Rust</strong>
-            <ul>
-              <li><a href="https://github.com/USERNAME/project-a">project-a</a> — гибкий генератор changelog</li>
-              <li><a href="https://github.com/USERNAME/project-b">project-b</a> — монитор активности и процессоров</li>
-              <li><a href="https://github.com/USERNAME/project-c">project-c</a> — минимальный S3-like сервис</li>
-            </ul>
-          </td>
-          <td valign="top">
-            <strong>Bash / Go / Python</strong>
-            <ul>
-              <li><a href="https://github.com/USERNAME/project-d">project-d</a> — инструменты для работы с пакетами</li>
-              <li><a href="https://github.com/USERNAME/project-e">project-e</a> — визуализатор/плейер</li>
-              <li><a href="https://github.com/USERNAME/project-f">project-f</a> — утилита для тестирования</li>
-            </ul>
-          </td>
-        </tr>
-      </table>
+| C# / .NET 💻 | Unity / GameDev 👾 |
+| :--- | :--- |
+| • [Console-Project](./Console-Project) — Logic & Algorithms | • [Unity-Platformer](./Unity-Platformer) — 2D Physics |
+| • [Algorithm-Labs](./Algorithm-Labs) — Data structures | • [Unity-UI-Sample](./Unity-UI-Sample) — Menu systems |
+| • [Clean-Code-Base](./Clean-Code-Base) — SOLID & OOP | • [Small-Indie-Game](./Small-Indie-Game) — WIP Indie project |
 
-      <h3>Ключевые навыки</h3>
-      <p>Rust · Go · Bash · Linux · CI/CD · Docker · CLI tools</p>
+---
 
-      <h3>Статистика</h3>
-      <p>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=USERNAME&theme=default" alt="streak"/>
-        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=USERNAME&theme=react-dark" alt="activity"/>
-      </p>
+### ⚡ My Tech Stack
 
-      <h3>Контакты</h3>
-      <p>Если хотите поработать вместе или есть вопросы — пишите на <a href="mailto:you@example.com">you@example.com</a> или открывайте issue в любом проекте.</p>
-          </td>
-  </tr>
-</table>
+<p align="left">
+  <!-- Подставьте нужные иконки: список иконок на https://skillicons.dev -->
+  <img src="https://skillicons.dev/icons?i=csharp,unity,dotnet,git,github,visualstudio" alt="tech icons" />
+</p>
+
+---
+
+### 📈 GitHub Activity (Live)
+
+<p align="left">
+  <!-- Замените USERNAME на ваше имя пользователя GitHub -->
+  <img src="https://github-readme-stats.vercel.app/api?username=BaiseeTry&show_icons=true&theme=dark&count_private=true" width="420" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaiseeTry&layout=compact&theme=dark" width="300" alt="top languages" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+<p align="left">
+  <!-- Замените TELEGRAM_HANDLE и др. на ваши ссылки/имена -->
+  <a href="https://t.me/BaiseeTry"><img src="https://img.shields.io/badge/Telegram-@BaiseeTry-26A5E4?logo=telegram&logoColor=white" alt="telegram" /></a>
+  <a href="https://github.com/BaiseeTry"><img src="https://img.shields.io/badge/GitHub-BaiseeTry-181717?logo=github&logoColor=white" alt="github" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Discord-BaiseeTry-7289DA?logo=discord&logoColor=white" alt="discord" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&text=Thanks%20for%20visiting!&fontSize=28" alt="footer-capsule" />
+</p>
