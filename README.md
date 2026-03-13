@@ -1,4 +1,4 @@
-<img src="furina.png" align="left" width="120" />
+**<img src="furina.png" align="left" width="120" />
 # Hey!
 
 I'm **BaiseeTry**, a C# enthusiast with a strong passion for Game Development and interactive experiences. I love building logic-driven worlds and clean code.
@@ -52,3 +52,4 @@ Here is a list of my projects:
 
 ### 📫 Connect with me
 [Telegram](https://t.me) • [Discord](ТВОЙ_ID)
+**
