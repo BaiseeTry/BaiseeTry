@@ -1,7 +1,9 @@
 <p align="left">
   <img src="furina.png" width="150" align="left" style="margin-right: 20px;" />
 </p>
-<b><font size="10">Hey! I'm BaiseeTry 🎮</font></b>
+
+<b><font size="24">Hey! I'm BaiseeTry 🎮</font></b>
+
 
 
 
