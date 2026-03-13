@@ -1,7 +1,7 @@
 <p align="left">
   <img src="furina.png" width="150" align="left" style="margin-right: 20px;" />
 </p>
-<strong># Hey! I'm BaiseeTry 🎮
+# Hey! I'm BaiseeTry 🎮
 
 Aspiring C# & Unity Developer from Earth 🌍  
 I'm on a mission to turn caffeine into code and complex bugs into polished indie games ☕💻
