@@ -23,7 +23,8 @@ I'm on a mission to turn caffeine into code and complex bugs into polished indie
 ### 📈 My GitHub Journey
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com" onerror="this.src='https://images.unsplash.com'" width="100%" />
+  <!-- Если ты загрузил файл в репозиторий, используй строку ниже -->
+  <img src="journey.webp" width="100%" alt="Journey" />
 </p>
 
 <p align="center">
@@ -34,4 +35,4 @@ I'm on a mission to turn caffeine into code and complex bugs into polished indie
 ---
 
 ### 📫 Let's Connect
-[Telegram](https://t.me) • [Discord](ТВОЙ_ID)
+[Telegram](https://t.me) • [Discord](твой_id)
