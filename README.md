@@ -1,58 +1,51 @@
-<p align="left">
-  <img src="furina.png" width="140" style="float:left; margin-right:18px; border-radius:12px;" alt="avatar" />
-</p>
+<!-- сверху можно вставить картинку/ASCII-арт -->
+![avatar](https://avatars.githubusercontent.com/USERNAME)
 
-# Hey! I'm BaiseeTry 👋
+# Привет!
+Я — USERNAME, люблю open source и пишу инструменты командной строки.
 
-I'm a C# Enthusiast and Aspiring Game Developer. I love building logic-driven worlds, interactive experiences, and clean, scalable code.
+![Profile views](https://komarev.com/ghpvc/?username=USERNAME&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/USERNAME?label=Follow&style=social)
 
-- 🔭 Currently working on: My first Unity Project
-- 🌱 Learning: Advanced C# & Game Physics
-- 💬 Ask me about: Genshin Impact or Unity bugs
-- ⚡ Fun fact: I write code that works (sometimes)
-
-<br clear="left" />
+Немного цифр о моей активности: pushed X commits, opened Y issues, contributed to Z репозиториев.
 
 ---
 
-### 🕹️ My Projects & Labs
+Здесь — список моих персональных проектов:
 
-| C# / .NET 💻 | Unity / GameDev 👾 |
-| :--- | :--- |
-| • [Console-Project](./Console-Project) — Logic & Algorithms | • [Unity-Platformer](./Unity-Platformer) — 2D Physics |
-| • [Algorithm-Labs](./Algorithm-Labs) — Data structures | • [Unity-UI-Sample](./Unity-UI-Sample) — Menu systems |
-| • [Clean-Code-Base](./Clean-Code-Base) — SOLID & OOP | • [Small-Indie-Game](./Small-Indie-Game) — WIP Indie project |
+<table>
+  <tr>
+    <td valign="top">
 
----
+- [repo-one](https://github.com/USERNAME/repo-one) - Короткое описание проекта 1.
+- [repo-two](https://github.com/USERNAME/repo-two) - Короткое описание проекта 2.
+- [repo-three](https://github.com/USERNAME/repo-three) - Короткое описание проекта 3.
+- [repo-four](https://github.com/USERNAME/repo-four) - Короткое описание проекта 4.
 
-### ⚡ My Tech Stack
+    </td>
+    <td valign="top">
 
-<p align="left">
-  <!-- Подставьте нужные иконки: список иконок на https://skillicons.dev -->
-  <img src="https://skillicons.dev/icons?i=csharp,unity,dotnet,git,github,visualstudio" alt="tech icons" />
-</p>
+- [repo-five](https://github.com/USERNAME/repo-five) - Короткое описание проекта 5.
+- [repo-six](https://github.com/USERNAME/repo-six) - Короткое описание проекта 6.
+- [repo-seven](https://github.com/USERNAME/repo-seven) - Короткое описание проекта 7.
+- [repo-eight](https://github.com/USERNAME/repo-eight) - Короткое описание проекта 8.
 
----
-
-### 📈 GitHub Activity (Live)
-
-<p align="left">
-  <!-- Замените USERNAME на ваше имя пользователя GitHub -->
-  <img src="https://github-readme-stats.vercel.app/api?username=BaiseeTry&show_icons=true&theme=dark&count_private=true" width="420" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaiseeTry&layout=compact&theme=dark" width="300" alt="top languages" />
-</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📫 Let's Connect
+Дополнительно можно добавить:
+- бейджи от shields.io (например язык, лицензия),
+- карточки статистики: ![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true)
+- карточку top langs: ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)
 
-<p align="left">
-  <!-- Замените TELEGRAM_HANDLE и др. на ваши ссылки/имена -->
-  <a href="https://t.me/BaiseeTry"><img src="https://img.shields.io/badge/Telegram-@BaiseeTry-26A5E4?logo=telegram&logoColor=white" alt="telegram" /></a>
-  <a href="https://github.com/BaiseeTry"><img src="https://img.shields.io/badge/GitHub-BaiseeTry-181717?logo=github&logoColor=white" alt="github" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Discord-BaiseeTry-7289DA?logo=discord&logoColor=white" alt="discord" /></a>
-</p>
+Примеры бейджей:
+- GitHub views: https://komarev.com/ghpvc/?username=USERNAME
+- followers: https://img.shields.io/github/followers/USERNAME?label=Follow&style=social
+- license: https://img.shields.io/github/license/USERNAME/REPO
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&text=Thanks%20for%20visiting!&fontSize=28" alt="footer-capsule" />
-</p>
+Если хочешь, могу:
+- подставить твои реальные репозитории и описания (скопируй список или дай ссылку на профиль),
+- сделать точную верстку/арт как на твоём скриншоте (загрузите свою картинку/ASCII-арт).
