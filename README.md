@@ -1,38 +1,30 @@
-# Hey! I'm BaiseeTry 🎮
+# Hey!
 
-**Aspiring C# & Unity Developer** from Earth 🌍. 
-I'm on a mission to turn caffeine into code and complex bugs into polished indie games.
-
-- 🔭 I’m currently working on: **My First Unity Platformer**
-- 🌱 I’m learning: **C# Scripting & Game Physics**
-- ⚡ Fun fact: I believe that `Console.WriteLine("Hello World!");` is a magic spell.
+I'm **BaiseeTry**, a C# enthusiast with a strong passion for Game Development and interactive experiences. I love building logic-driven worlds and clean code.
 
 ---
 
-### 🛠 My Skills Grid
+Ever since I joined GitHub, I've been focused on mastering **C#** and the **.NET ecosystem**. Now, I'm diving deep into **Unity** to bring my game ideas to life.
+
+Here is a list of my projects:
 
 
-| C# / .NET 💻 | Unity Engine 🕹️ | Tools 🛠️ |
-| :--- | :--- | :--- |
-| • OOP & Logic | • 2D/3D Physics | • Git / GitHub |
-| • Basic Algorithms | • Scripting (C#) | • Visual Studio |
-| • Data Types | • UI Design | • Markdown |
+| C# / .NET 💻 | Unity / GameDev 🕹️ |
+| :--- | :--- |
+| • **Console-Project** — A simple console application to practice C# basics. | • **Unity-Platformer** — My first 2D platformer game with physics and player logic. |
+| • **Algorithm-Labs** — Collection of solved tasks and data structures. | • **Unity-UI-Sample** — A prototype of an interactive game menu system. |
+| • **Dotnet-Core-App** — Exploring the power of .NET Core and CLI tools. | • **Physics-Playground** — Testing Unity's 2D/3D physics engine and collisions. |
+| • **Clean-Code-Base** — Examples of OOP principles and SOLID in C#. | • **Small-Indie-Game** — A work-in-progress indie project from scratch. |
 
 ---
 
-### 📈 My GitHub Journey
-
-<p align="center">
-  <!-- Если ты загрузил файл в репозиторий, используй строку ниже -->
-  <img src="journey.webp" width="100%" alt="Journey" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app" width="48%" />
-  <img src="https://github-readme-stats.vercel.app" width="43%" />
+### 📊 GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app" width="400" />
+<img src="https://github-readme-stats.vercel.app" width="300" />
 </p>
 
 ---
 
-### 📫 Let's Connect
-[Telegram](https://t.me) • [Discord](твой_id)
+### 📫 Connect with me
+[Telegram](https://t.me) • [Discord](ТВОЙ_ID)
