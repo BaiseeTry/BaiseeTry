@@ -1,19 +1,19 @@
 <p align="left">
   <img src="furina.png" width="150" align="left" style="margin-right: 20px;" />
 </p>
-
 # Hey! I'm BaiseeTry 🎮
 
-Aspiring C# & Unity Developer from Earth 🌍.  
+**Aspiring C# & Unity Developer** from Earth 🌍. 
 I'm on a mission to turn caffeine into code and complex bugs into polished indie games.
 
-- 🔭 I’m currently working on: My First Unity Platformer
-- 🌱 I’m learning: C# Scripting & Game Physics
-- ⚡ Fun fact: I believe that Console.WriteLine("Hello World!"); is a magic spell.
+- 🔭 I’m currently working on: **My First Unity Platformer**
+- 🌱 I’m learning: **C# Scripting & Game Physics**
+- ⚡ Fun fact: I believe that `Console.WriteLine("Hello World!");` is a magic spell.
 
 ---
 
 ### 🛠 My Skills Grid
+
 
 | C# / .NET 💻 | Unity Engine 🕹️ | Tools 🛠️ |
 | :--- | :--- | :--- |
@@ -48,18 +48,5 @@ I'm on a mission to turn caffeine into code and complex bugs into polished indie
 
 ---
 
-### 📁 Selected Projects
-
-| Unity / GameDev | C# / Tools | Other |
-| :--- | :--- | :--- |
-| • My First Unity Platformer | • LevelExporter | • Personal Website |
-| • PlatformerAI | • ConsoleUtils | • LearningNotes |
-| • Inventory System | • BuildScripts | • Bot |
-
----
-
 ### 📫 Let's Connect
-
-- Telegram: @your_telegram
-- Discord: your#1234
-- GitHub: https://github.com/yourusername
+[Telegram](https://t.me) • [Discord](твой_id)
