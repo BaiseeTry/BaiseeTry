@@ -1,4 +1,6 @@
-<img src="furina.png" align="left" width="160" style="margin-right: 20px" />
+<p align="left">
+  <img src="furina.png" align="left" width="160" style="margin-right: 20px" />
+</p>
 
 # Hey! I'm BaiseeTry 👋
 
@@ -25,30 +27,27 @@ I'm a **C# Enthusiast** and **Aspiring Game Developer**. I love building logic-d
 ---
 
 ### ⚡ My Tech Stack
-
-**Languages & Engine**
-![C#](https://img.shields.io) ![C++](https://img.shields.io) ![Unity](https://img.shields.io) ![.NET](https://img.shields.io)
-
-**Tools & OS**
-![Visual Studio](https://img.shields.io) ![Git](https://img.shields.io) ![Windows](https://img.shields.io) ![GitHub](https://img.shields.io) ![Markdown](https://img.shields.io)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" />
+  </a>
+</p>
 
 ---
 
 ### 📈 GitHub Activity (Live)
-
 <p align="left">
   <img src="https://github-readme-stats.vercel.app" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com" width="300" />
+  <img src="https://github-readme-stats.vercel.app" width="300" />
 </p>
-
-**My Language Focus:**
-<img src="https://github-readme-stats.vercel.app" width="400" />
 
 ---
 
 ### 📫 Let's Connect
-[![Telegram](https://img.shields.io)](https://t.me)
-[![Discord](https://img.shields.io)](ТВОЙ_ID)
+<p align="left">
+<a href="https://t.me"><img src="https://img.shields.io" /></a>
+<a href="#"><img src="https://img.shields.io" /></a>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app" />
