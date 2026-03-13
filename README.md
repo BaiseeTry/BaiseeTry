@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://img.goodfon.ru" width="100%" alt="Journey" />
-</p>
-
 # Hey! I'm BaiseeTry 🎮
 
 **Aspiring C# & Unity Developer** from Earth 🌍. 
@@ -13,7 +9,7 @@ I'm on a mission to turn caffeine into code and complex bugs into polished indie
 
 ---
 
-### 🛠 My Skills Grid (like on your screen)
+### 🛠 My Skills Grid
 
 
 | C# / .NET 💻 | Unity Engine 🕹️ | Tools 🛠️ |
@@ -24,7 +20,12 @@ I'm on a mission to turn caffeine into code and complex bugs into polished indie
 
 ---
 
-### 📊 My GitHub Journey
+### 📈 My GitHub Journey
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com" onerror="this.src='https://images.unsplash.com'" width="100%" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app" width="48%" />
   <img src="https://github-readme-stats.vercel.app" width="43%" />
@@ -33,4 +34,4 @@ I'm on a mission to turn caffeine into code and complex bugs into polished indie
 ---
 
 ### 📫 Let's Connect
-[Telegram](@BaiseeIT) • [Discord](baisee123) • [Email](ttg43267@gmail.com)
+[Telegram](https://t.me) • [Discord](ТВОЙ_ID)
