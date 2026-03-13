@@ -2,7 +2,16 @@
   <img src="furina.png" width="150" align="left" style="margin-right: 20px;" />
 </p>
 
-<table><tr><td><h1>Hey! I'm BaiseeTry 🎮</h1></td></tr></table>
+<table>
+  <tr>
+    <td>
+      <h1>Hey! I'm BaiseeTry 🎮</h1>
+      Aspiring C# & Unity Developer from Earth 🌏<br>
+      I'm on a mission to turn caffeine into code and complex...
+    </td>
+  </tr>
+</table>
+
 
 
 
