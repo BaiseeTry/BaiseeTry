@@ -20,9 +20,16 @@ Here is a list of my projects:
 ---
 
 ### 📊 GitHub Stats
+
 <p align="left">
-<img src="kzamku.jpg" width="400" />
+  <img src="https://github-readme-stats.vercel.app" width="400" />
+  <img src="https://github-readme-stats.vercel.app" width="300" />
 </p>
+
+<p align="left">
+  <img src="https://komarev.com" alt="Views" />
+</p>
+
 
 ---
 
