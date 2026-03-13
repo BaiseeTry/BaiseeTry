@@ -19,24 +19,15 @@ Here is a list of my projects:
 
 ---
 
-### 🛠 Stack & Tools
+### ⚡ Technologies
 
 <p align="left">
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=flat-square&logo=PyCharm&logoColor=white" alt="PyCharm" />
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 
