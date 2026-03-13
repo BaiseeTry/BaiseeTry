@@ -3,8 +3,8 @@
 </p>
 # Hey! I'm BaiseeTry 🎮
 
-**Aspiring C# & Unity Developer** from Earth 🌍. 
-I'm on a mission to turn caffeine into code and complex bugs into polished indie games.
+Aspiring C# & Unity Developer from Earth 🌍  
+I'm on a mission to turn caffeine into code and complex bugs into polished indie games ☕💻
 
 - 🔭 I’m currently working on: **My First Unity Platformer**
 - 🌱 I’m learning: **C# Scripting & Game Physics**
