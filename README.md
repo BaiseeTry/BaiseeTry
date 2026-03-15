@@ -51,4 +51,4 @@ I'm on a mission to turn caffeine into code and complex bugs into polished indie
 ---
 
 ### 📫 Let's Connect
-[Telegram](https://t.me) • [Discord](твой_id)
+[Telegram](https://t.me/BaiseeTry) • [Discord](твой_id)
